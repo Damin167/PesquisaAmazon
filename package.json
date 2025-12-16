@@ -1,0 +1,17 @@
+{
+  "name": "amazon-bdd",
+  "version": "1.0.0",
+  "description": "Testes BDD com Cucumber + Selenium na Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.3.0",
+    "selenium-webdriver": "^4.39.0"
+  }
+}
